@@ -1,0 +1,30 @@
+.page__main {
+    background-color: rgba(75, 74, 76, 0.7);
+    width: auto;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, .9);
+    position: relative;
+    overflow: hidden;
+    margin: 8% 100px 10px;
+    color: white;
+}
+
+.info-box {
+    position: relative;
+    margin: 10px 10px 10px;
+    width: 290px;
+}
+
+.info__title {
+    color: white;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.info__img {
+    margin: 10px 10px 10px;
+    width: 270px;
+    height: 270px;
+}
