@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+h1, h2, h3 {
+    text-align: center;
+    color: white;
+}
+
+.gold {
+    color: yellow;
+}
+
+.cash {
+    color: #44E500;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.level-cash {
+    color: #44E500;
+}
+
+.cash-icon {
+    vertical-align: middle;
+    width: 18px;
+    height: 16px;
+}
+
+.level-cash-icon {
+    vertical-align: text-bottom;
+    width: 27px;
+    height: 25px;
+}
+
+.min-icon {
+    vertical-align: middle;
+    width: 17px;
+    height: 17px;
+}
+
+.level-icon {
+    width: 100px;
+    height: 100px;
+}
+
+.sell-price {
+    margin-top: 50px;
+}
+
+.page__main {
+    background-color: rgba(75, 74, 76, 0.7);
+    width: auto;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, .9);
+    position: relative;
+    overflow: hidden;
+    margin: 8% 100px 10px;
+    color: white;
+}
+
+.page {
+    float: left;
+    width: 100%;
+    margin: 10px 10px 10px;
+    padding-top: 20px;
+    padding: 10px 10px 10px;
+}
+
+.container {
+    display: flex;
+}
+
+.info-box {
+    position: relative;
+    width: 310px;
+    padding: 10px;
+    background: rgb( 29, 30, 29, 0.4);
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.info__title {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.info__img {
+    margin: 10px;
+    width: 270px;
+    height: 270px;
+}
+
+.info__left {
+    float: left;
+    width: 100%;
+    width: 240px;
+    padding: 8px 10px;
+}
+
+.info__right {
+    float: left;
+    width: 100%;
+    padding: 8px 10px;  
+}
+
+.info__text {
+    color: white;
+    font-family: "Kanit", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.table {
+    display: flex;
+}
+.tborder {
+    border: 2px solid;
+    border-radius: 10px;
+    background: rgb( 29, 30, 29, 0.4)
+}
+
+.tbody {
+    position: relative;
+}
+
+.tstroke {
+    float: left;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
